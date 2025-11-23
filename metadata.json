@@ -1,0 +1,5 @@
+{
+  "name": "Stock screener",
+  "description": "A premium-style stock screener and charting platform featuring real-time simulated market data, technical analysis indicators, and AI-powered insights using Google Gemini.",
+  "requestFramePermissions": []
+}
